@@ -55,8 +55,8 @@
     {
       "id": "1",
       "userId": 1,
-      "title": "Introducción a las API",
-      "body": "Conceptos básicos sobre APIs y su importancia."
+      "title": "Nueva publicación del usuario 1",
+      "body": "Aprendizaje en la creación de APIs"
     },
     {
       "id": "2",
@@ -80,7 +80,7 @@
       "id": "5",
       "userId": 5,
       "title": "Método POST",
-      "body": "Creación de recursos mediante POST."
+      "body": "Actualización con el metodo PATCH"
     },
     {
       "id": "6",
