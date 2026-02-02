@@ -23,8 +23,8 @@ const SolicitudPOST_comentario = async () => {
     const nuevo_comentario = await fetch(`http://localhost:3000/comments`, {
         method: "POST", // Metodo de tipo POST
         body: JSON.stringify({
-            "postId": 7540,
-            "title": "Comentario 19 del post 7540",
+            "postId": 6,
+            "title": "Comentario 19 del post 6",
             "body": "Ejemplo de un nuevo post"
         }),
         headers: {
