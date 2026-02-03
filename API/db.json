@@ -95,12 +95,6 @@
       "body": "Actualización parcial de información."
     },
     {
-      "id": "8",
-      "userId": 8,
-      "title": "Método DELETE",
-      "body": "Eliminación de recursos en una API."
-    },
-    {
       "id": "9",
       "userId": 9,
       "title": "Códigos de estado",
